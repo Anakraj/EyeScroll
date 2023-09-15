@@ -1,4 +1,4 @@
-# EyeBot
+# EyeScroll
 
 Tracks eye positions and automatically scrolls webpages for hands-free reading.
 
